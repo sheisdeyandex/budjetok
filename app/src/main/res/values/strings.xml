@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Бюджет ок</string>
+    <string name="back">назад</string>
+    <string name="next">далее</string>
+    <string name="description_onboarding_1">Жизнь без учета похожа на путишествие на плату. Мы не знаем куда плывем,     и когда что-то изменится</string>
+    <string name="description_onboarding_2">Учет денег-это инструмент для улучшения нашей жизни</string>
+    <string name="description_onboarding_3">Обретая привычку учитывать деньги, мы плывем  в нужном направлении</string>
+    <string name="description_onboarding_4">Наша жизнь становится ярче</string>
+    <string name="finish">продолжить</string>
+    <string name="select_currency">Выберите валюту\nи кошельки</string>
+    <string name="choose_info">Позже Вы сможете добавить, удалить, отредактировать кошельки</string>
+    <string name="choose_value">Выберите валюту</string>
+
+</resources>

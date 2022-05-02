@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ok_nav_graph"
+    app:startDestination="@id/OnBoardingFragment"
+    >
+<fragment
+    android:id="@+id/OnBoardingFragment"
+    android:name="com.budjet.ok.ui.fragments.onboarding.OnBoardingFragment"
+    >
+    <action
+        android:id="@+id/action_OnBoardingFragment_to_chooseFragment"
+        app:destination="@id/chooseFragment" />
+</fragment>
+    <fragment
+        android:id="@+id/chooseFragment"
+        android:name="com.budjet.ok.ui.fragments.choosecards.ChooseCardsFragment"
+        />
+</navigation>
