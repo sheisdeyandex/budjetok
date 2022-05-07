@@ -3,18 +3,37 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/alfabank.xml" value="0.174" />
         <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/btn_grey_rounded_normal.xml" value="0.179" />
         <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/btn_grey_rounded_pressed.xml" value="0.179" />
         <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/btn_grey_rounded_selector.xml" value="0.179" />
         <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/btn_orange_rounded_normal.xml" value="0.179" />
         <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/btn_orange_rounded_pressed.xml" value="0.179" />
         <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/btn_orange_rounded_selector.xml" value="0.179" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/cash.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/category_bank_alt.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/category_birthday_cake.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/category_boot_alt_1.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/category_burger.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/category_car.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/category_cart_alt.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/category_cola.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/category_first_aid.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/category_home.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/category_ic_airplane_alt.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/category_iphone.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/category_island_alt.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/category_jacket.xml" value="0.174" />
         <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/onboarding_selected_dot_orange.xml" value="0.179" />
         <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/onboarding_unselected_dot_orange.xml" value="0.179" />
         <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/onboarding_viewpager_selector_orange.xml" value="0.179" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/sberbank.xml" value="0.174" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/drawable/slide_out_top.xml" value="0.174" />
         <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/layout/bottom_sheet_currencies.xml" value="0.14722222222222223" />
-        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/layout/choose_cards_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/layout/bottom_sheet_currencies.xml" value="0.25" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/layout/choose_cards_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/layout/choose_expences_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/layout/item_currencies.xml" value="0.17426545086119555" />
         <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/layout/on_boarding_fragment.xml" value="0.268733850129199" />
         <entry key="..\:/Users/sulton/AndroidStudioProjects/2/app/src/main/res/layout/on_boarding_inside_fragment.xml" value="0.268733850129199" />
       </map>

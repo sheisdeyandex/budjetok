@@ -40,10 +40,9 @@ class OnBoardingFragment : Fragment() {
             initPageChange(view)
         }
 
-
     }
     private fun initPageChange(view: View){
-        if (getItem() > binding.viewPager.childCount) {
+        if (getItem() > binding.viewPager.childCount+1) {
             view.findNavController().navigate(R.id.action_OnBoardingFragment_to_chooseFragment)
         } else {
             binding.viewPager.setCurrentItem(getItem() + 1, true)

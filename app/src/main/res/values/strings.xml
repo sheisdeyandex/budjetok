@@ -2,7 +2,7 @@
     <string name="app_name">Бюджет ок</string>
     <string name="back">назад</string>
     <string name="next">далее</string>
-    <string name="description_onboarding_1">Жизнь без учета похожа на путишествие на плату. Мы не знаем куда плывем,     и когда что-то изменится</string>
+    <string name="description_onboarding_1">Жизнь без учета похожа на путешествие на плату. Мы не знаем куда плывем,     и когда что-то изменится</string>
     <string name="description_onboarding_2">Учет денег-это инструмент для улучшения нашей жизни</string>
     <string name="description_onboarding_3">Обретая привычку учитывать деньги, мы плывем  в нужном направлении</string>
     <string name="description_onboarding_4">Наша жизнь становится ярче</string>
@@ -10,5 +10,15 @@
     <string name="select_currency">Выберите валюту\nи кошельки</string>
     <string name="choose_info">Позже Вы сможете добавить, удалить, отредактировать кошельки</string>
     <string name="choose_value">Выберите валюту</string>
+    <string name="cash">Наличные</string>
+    <string name="alpha">Альфа</string>
+    <string name="sberbank">Сбербанк</string>
+    <string name="tinkoff">Тинькофф</string>
+    <string name="select_categories">Добавьте категории\nрасходов</string>
+    <string name="choose_category_info">Позже вы сможете добавить и отредактировать категории расходов, а     также добавлять для них подкатегории и устанавливать бюджет.</string>
+    <string name="jkh">ЖКХ</string>
+    <string name="allforhome">Все для дома</string>
+    <string name="selfcash">Карманные</string>
+    <string name="products">Продукты</string>
 
 </resources>

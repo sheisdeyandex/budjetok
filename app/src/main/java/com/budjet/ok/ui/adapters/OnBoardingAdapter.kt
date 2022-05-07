@@ -35,6 +35,6 @@ class OnBoardingAdapter(
     }
 
     override fun getItemCount(): Int {
-        return 3
+        return 4
     }
 }

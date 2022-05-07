@@ -8,6 +8,18 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="background">#fffdff</color>
+    <color name="grey_devider">#DCDCDC</color>
+    <color name="icon_inactive">#d1d1d5</color>
+    <color name="icon_active_blue">#00BFFF</color>
+    <color name="icon_active_red">#FF0000</color>
+    <color name="icon_active_green">#7FFF00</color>
+    <color name="icon_active_yellow">#FFFF00</color>
+    <color name="icon_active_purple">#800080</color>
+    <color name="icon_active_pink">#FF69B4</color>
+    <color name="icon_active_sky_blue">#87CEEB</color>
+
+
+
     <color name="dot_unselected">#a5a1a6</color>
     <color name="dot_selected">#0f71ff</color>
 
